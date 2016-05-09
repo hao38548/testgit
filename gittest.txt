@@ -1,2 +1,4 @@
 THIS is a test of git!! line 1
 line 2
+line 3
+
